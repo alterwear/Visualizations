@@ -2,7 +2,11 @@
 
 Here are a variety of visualization techniques we're playing around with!
 
-![]()
-![glitchcrosshatch](https://i.imgur.com/jG0CIZ9.gifv)
+### Crosshatch Glitch
+![](videos/glitch-crosshatch.gif)
 
-![Imgur](https://i.imgur.com/jG0CIZ9.gifv)
+### Glitch Line
+![](videos/glitch-line.gif)
+
+### Image Dust
+![](videos/image-dust.gif)

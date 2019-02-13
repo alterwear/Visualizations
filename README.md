@@ -10,3 +10,18 @@ Here are a variety of visualization techniques we're playing around with!
 
 ### Image Dust
 ![](videos/image-dust.gif)
+
+### Pointillism
+![](videos/Pointillism.gif)
+
+### Bands
+![](videos/Bands.gif)
+
+### Glitch Jitter Strips
+![](videos/GlitchJitterStrips.gif)
+
+### Image Pixel Bands
+![](videos/ImagePixelBands.gif)
+
+### Image Square Dust
+![](videos/ImageSquareDust.gif)
